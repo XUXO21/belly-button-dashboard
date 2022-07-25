@@ -1,4 +1,4 @@
-# belly-button-dashboard
+# Belly-button-dashboard
 belly button dashboard
 
 
@@ -15,6 +15,8 @@ Where we can see (by volunteer):
 3. Bacterua Cultures per Sample
 
 Link to the dashboard:
+
+https://xuxo21.github.io/belly-button-dashboard/
 
 
   
